@@ -1,2 +1,2 @@
-# kairos-app
+# Kairos-app
 Kairos frontend for app.
